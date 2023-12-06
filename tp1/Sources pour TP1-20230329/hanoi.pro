@@ -1,0 +1,1 @@
+transfer(N,A,B,I):-
